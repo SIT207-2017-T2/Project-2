@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorwrite">#FFFFFF</color>
+
+
+    <color name="colorEmail1">#FF5C5A5A</color>
+    <color name="colorEmailtxtTitle">#000000</color>
+
+    <color name="colorbackground">#FFB8D6D8</color>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>

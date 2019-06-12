@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">SIT207ASS2NCHU</string>
+
+
+    <string name="action_setting">Settings</string>
+    <string name="action_home">Home</string>
+    <string name="action_new">New_Arrival</string>
+    <string name="action_add">ADD</string>
+    <string name="action_contact">Contact</string>
+    <string name="action_rate">Rate</string>
+    <string name="action_about">About Us</string>
+    <string name="action_exit">Exit</string>
+
+    <string name="Support">Support</string>
+    <string name="Switch">Switch</string>
+    <string name="Remind">Remind</string>
+    <string name="Calender">Calender</string>
+    <string name="ADD">+</string>
+    <string name="Thank_you_for_your_support">THANK YOU FOR YOUR SUPPORT</string>
+    <string name="click_here">CLICK HERE</string>
+    <string name="paypal">PAYPAL</string>
+    <string name="bank">BANK</string>
+    <string name="another">ANOTHER</string>
+    <string name="welcome_screen">Welcome</string>
+    <string name="done">DONE</string>
+    <string name="all_day">All-day</string>
+    <string name="hour">HOUR</string>
+    <string name="time">Time</string>
+    <string name="date">Date:</string>
+    <string name="add_event">ADD EVENT</string>
+    <string name="comd">:</string>
+    <string name="note">Note</string>
+
+
+    <string name="ratingbar">Rating Bar</string>
+
+
+    <string name="Contact">- Contact Us</string>
+    <string name="Maptxt">Map</string>
+    <string name="Email">Email</string>
+    <string name="Emailad">Email Address:</string>
+    <string name="address">deakin.edu.au</string>
+    <string name="line">_______________________________________________</string>
+    <string name="Phone">Phone</string>
+    <string name="Pdetile1">Melbourne Detile:</string>
+    <string name="service">Customer Service (000) 000-000</string>
+    <string name="open">Open 9-5, weekday</string>
+    <string name="Mail">Mail</string>
+    <string name="Calendar">Calendar</string>
+    <string name="realaddress">DEAKIN, Melbourne VIC 3125, Australia</string>
+
+
+</resources>

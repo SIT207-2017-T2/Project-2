@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/add"
+
+        android:title="add"
+        android:icon="@drawable/ic_action_name"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_home"
+        android:orderInCategory="105"
+        android:title="@string/action_home"
+        app:showAsAction="never"/>
+
+
+    <item
+        android:id="@+id/list"
+        android:orderInCategory="104"
+        android:title="Event list" />
+    <item
+        android:id="@+id/action_contact"
+        android:orderInCategory="105"
+        android:title="@string/action_contact" />
+
+    <item
+        android:id="@+id/action_rate"
+        android:orderInCategory="105"
+        android:title="@string/action_rate"
+        app:showAsAction="never"/>
+
+
+</menu>
